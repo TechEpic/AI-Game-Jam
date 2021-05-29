@@ -3,10 +3,11 @@ using UnityEngine;
 // General controller for the player that handles user input
 public class PlayerController : MonoBehaviour {
 	
-	OctoMovement mover;
+	DirectedMovement mover;
 
 	void Start() {
-		mover = gameObject.GetComponent<OctoMovement>();
+		// Grab the mover
+		mover = gameObject.GetComponent<DirectedMovement>();
 	}
 	
 	void Update() {
