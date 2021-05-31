@@ -44,6 +44,12 @@ TextureImporter:
   - first:
       213: 7696264601144940059
     second: New Wall Tileset_13
+  - first:
+      213: -6513163904946980798
+    second: New Wall Tileset_14
+  - first:
+      213: 7964863183341968608
+    second: New Wall Tileset_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -446,6 +452,48 @@ TextureImporter:
       bones: []
       spriteID: b1658a0d0ef9eca60800000000000000
       internalID: 7696264601144940059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wall Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2483db9cfe79c95a0800000000000000
+      internalID: -6513163904946980798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wall Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5fa79dd0e88e60800000000000000
+      internalID: 7964863183341968608
       vertices: []
       indices: 
       edges: []
