@@ -2,13 +2,16 @@ using UnityEngine;
 
 public class OcclusionDarkening : MonoBehaviour {
 
-	// Resolution of the distance map for occlusion rendering
-	public int OcclusionResolution = 1000;
-
-	// Amount of samples to take smoothing the shadows
-	public int Samples = 50;
+	// How bright areas in shadow should be (roughly - precision issues)
+	public float ShadowBrightness = 0.5f;
 	// Radius to take samples in
 	public float SampleRadius = 10;
+
+	// Resolution of the distance map for occlusion rendering
+	public int OcclusionResolution = 1000;
+	// Amount of samples to take smoothing the shadows
+	public int Samples = 50;
+	
 
 	// Material to use for drawing
 	Material mat;
@@ -83,7 +86,8 @@ public class OcclusionDarkening : MonoBehaviour {
 		mat.SetPass(0);
 		GL.Begin(GL.QUADS);
 		// Set the shadow color
-		GL.Color(new Color(0, 0, 0, 0.15f));
+		float alpha = Mathf.Sqrt(1 - Mathf.Pow(ShadowBrightness, 1f / Samples));
+		GL.Color(new Color(0, 0, 0, alpha));
 		float[] dists = Vision.GetPlayerDepths(dirs);
 		for(int i = 0; i < dists.Length; i++) {
 			// Draw a quad as part of the shadow
