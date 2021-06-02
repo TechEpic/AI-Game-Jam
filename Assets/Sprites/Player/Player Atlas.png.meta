@@ -1,0 +1,1968 @@
+fileFormatVersion: 2
+guid: 29f63c9e09b655045bfa327aca271456
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6174136901676310512
+    second: Player Atlas_0
+  - first:
+      213: 5060101124629689448
+    second: Player Atlas_1
+  - first:
+      213: 8826745383011749337
+    second: Player Atlas_2
+  - first:
+      213: 1847380344210560943
+    second: Player Atlas_3
+  - first:
+      213: 8807461291782996415
+    second: Player Atlas_4
+  - first:
+      213: 457132796399048192
+    second: Player Atlas_5
+  - first:
+      213: 2600011846679564616
+    second: Player Atlas_6
+  - first:
+      213: -4681236699071003567
+    second: Player Atlas_7
+  - first:
+      213: 5402514936561971984
+    second: Player Atlas_8
+  - first:
+      213: 4077040375039654308
+    second: Player Atlas_9
+  - first:
+      213: 1124820905471609600
+    second: Player Atlas_10
+  - first:
+      213: 4284039150622892544
+    second: Player Atlas_11
+  - first:
+      213: -1394511247473612820
+    second: Player Atlas_12
+  - first:
+      213: -7392322796465834368
+    second: Player Atlas_13
+  - first:
+      213: 369205931949172537
+    second: Player Atlas_14
+  - first:
+      213: 8274805126226960069
+    second: Player Atlas_15
+  - first:
+      213: -6173467858197431689
+    second: Player Atlas_16
+  - first:
+      213: -6947851826436225283
+    second: Player Atlas_17
+  - first:
+      213: -1349169361766512575
+    second: Player Atlas_18
+  - first:
+      213: -8714158712415451636
+    second: Player Atlas_19
+  - first:
+      213: 7791377022253405878
+    second: Player Atlas_20
+  - first:
+      213: 525098320267968438
+    second: Player Atlas_21
+  - first:
+      213: -6651062462145644473
+    second: Player Atlas_22
+  - first:
+      213: -1666529903000780625
+    second: Player Atlas_23
+  - first:
+      213: -4573705558599650241
+    second: Player Atlas_24
+  - first:
+      213: -1966012837397981963
+    second: Player Atlas_25
+  - first:
+      213: -509363041015865377
+    second: Player Atlas_26
+  - first:
+      213: 2690338386403022665
+    second: Player Atlas_27
+  - first:
+      213: -8346369112131218090
+    second: Player Atlas_28
+  - first:
+      213: -6771959479403580134
+    second: Player Atlas_29
+  - first:
+      213: 6289788551302617180
+    second: Player Atlas_30
+  - first:
+      213: 7644889855405286165
+    second: Player Atlas_31
+  - first:
+      213: -7897844108551983257
+    second: Player Atlas_32
+  - first:
+      213: 3582430085674410614
+    second: Player Atlas_33
+  - first:
+      213: 767514797749286668
+    second: Player Atlas_34
+  - first:
+      213: -6190453667156218614
+    second: Player Atlas_35
+  - first:
+      213: 1142394190464564682
+    second: Player Atlas_36
+  - first:
+      213: -1499965107886346662
+    second: Player Atlas_37
+  - first:
+      213: 5165313813535118692
+    second: Player Atlas_38
+  - first:
+      213: 4264113217830202229
+    second: Player Atlas_39
+  - first:
+      213: 2623475946316165943
+    second: Player Atlas_40
+  - first:
+      213: -7293795018124315113
+    second: Player Atlas_41
+  - first:
+      213: 8875855740574480370
+    second: Player Atlas_42
+  - first:
+      213: 2237662522794726652
+    second: Player Atlas_43
+  - first:
+      213: 6682676604421820734
+    second: Player Atlas_44
+  - first:
+      213: -6433974570305894681
+    second: Player Atlas_45
+  - first:
+      213: -6906288055599791315
+    second: Player Atlas_46
+  - first:
+      213: 2991878542139399659
+    second: Player Atlas_47
+  - first:
+      213: 4721970163849769873
+    second: Player Atlas_48
+  - first:
+      213: 4670902973239850204
+    second: Player Atlas_49
+  - first:
+      213: -987900414282700752
+    second: Player Atlas_50
+  - first:
+      213: -3961174000708715790
+    second: Player Atlas_51
+  - first:
+      213: 3191910694447716672
+    second: Player Atlas_52
+  - first:
+      213: -4600505061514323697
+    second: Player Atlas_53
+  - first:
+      213: -7481698908376212205
+    second: Player Atlas_54
+  - first:
+      213: -8174571409729882272
+    second: Player Atlas_55
+  - first:
+      213: -4952491745140199040
+    second: Player Atlas_56
+  - first:
+      213: -3951402890612316419
+    second: Player Atlas_57
+  - first:
+      213: 1571811022713461546
+    second: Player Atlas_58
+  - first:
+      213: -6758732811984813469
+    second: Player Atlas_59
+  - first:
+      213: -5650620170036424924
+    second: Player Atlas_60
+  - first:
+      213: -8751303971566406680
+    second: Player Atlas_61
+  - first:
+      213: -6683676560709883600
+    second: Player Atlas_62
+  - first:
+      213: 7452350550899634452
+    second: Player Atlas_63
+  - first:
+      213: 3940530483131254917
+    second: Player Atlas_64
+  - first:
+      213: 2288501938639452765
+    second: Player Atlas_65
+  - first:
+      213: 2944731783206150778
+    second: Player Atlas_66
+  - first:
+      213: 621767719894830368
+    second: Player Atlas_67
+  - first:
+      213: -5399124910024945793
+    second: Player Atlas_68
+  - first:
+      213: 852667627032221607
+    second: Player Atlas_69
+  - first:
+      213: 8394895142061487735
+    second: Player Atlas_70
+  - first:
+      213: 241864603300059674
+    second: Player Atlas_71
+  - first:
+      213: -634526378447377700
+    second: Player Atlas_72
+  - first:
+      213: -6538623935151804378
+    second: Player Atlas_73
+  - first:
+      213: -8225282392908536956
+    second: Player Atlas_74
+  - first:
+      213: -3971773539070389786
+    second: Player Atlas_75
+  - first:
+      213: -8434414617341938881
+    second: Player Atlas_76
+  - first:
+      213: -767375220950102012
+    second: Player Atlas_77
+  - first:
+      213: 8746193479895907990
+    second: Player Atlas_78
+  - first:
+      213: -685492033513619659
+    second: Player Atlas_79
+  - first:
+      213: -8182322718449542665
+    second: Player Atlas_80
+  - first:
+      213: 1807837601553291628
+    second: Player Atlas_81
+  - first:
+      213: -1849081643195859463
+    second: Player Atlas_82
+  - first:
+      213: 2208572165930726394
+    second: Player Atlas_83
+  - first:
+      213: -2137490690313016209
+    second: Player Atlas_84
+  - first:
+      213: 3538586157990105290
+    second: Player Atlas_85
+  - first:
+      213: 5445581973358068943
+    second: Player Atlas_86
+  - first:
+      213: -7308528643486970801
+    second: Player Atlas_87
+  - first:
+      213: 7825249516239088187
+    second: Player Atlas_88
+  - first:
+      213: 6565716061437081052
+    second: Player Atlas_89
+  - first:
+      213: -4110126155126432226
+    second: Player Atlas_90
+  - first:
+      213: -4376803241982996754
+    second: Player Atlas_91
+  - first:
+      213: 3335552809850172218
+    second: Player Atlas_92
+  - first:
+      213: -495556698534433459
+    second: Player Atlas_93
+  - first:
+      213: 3446628462537737476
+    second: Player Atlas_94
+  - first:
+      213: 5746764145967612579
+    second: Player Atlas_95
+  - first:
+      213: 5997291199040062607
+    second: Player Atlas_96
+  - first:
+      213: -8138390661715392957
+    second: Player Atlas_97
+  - first:
+      213: 5347927908233523105
+    second: Player Atlas_98
+  - first:
+      213: 586354236496455089
+    second: Player Atlas_99
+  - first:
+      213: 2116392013436665991
+    second: Player Atlas_100
+  - first:
+      213: 6600470209932534424
+    second: Player Atlas_101
+  - first:
+      213: -5640944817760358969
+    second: Player Atlas_102
+  - first:
+      213: -3674722224455025946
+    second: Player Atlas_103
+  - first:
+      213: 8027071187908811160
+    second: Player Atlas_104
+  - first:
+      213: -5488675999710662673
+    second: Player Atlas_105
+  - first:
+      213: 3455244990798105493
+    second: Player Atlas_106
+  - first:
+      213: -3726994958706491641
+    second: Player Atlas_107
+  - first:
+      213: 5223049623943470621
+    second: Player Atlas_108
+  - first:
+      213: -260550917054965990
+    second: Player Atlas_109
+  - first:
+      213: -5567454065749764324
+    second: Player Atlas_110
+  - first:
+      213: -3205841016388680680
+    second: Player Atlas_111
+  - first:
+      213: 929786022368372765
+    second: Player Atlas_112
+  - first:
+      213: -8318223571629265038
+    second: Player Atlas_113
+  - first:
+      213: -1921258633824255710
+    second: Player Atlas_114
+  - first:
+      213: 1445868284666430496
+    second: Player Atlas_115
+  - first:
+      213: -1010724784453985700
+    second: Player Atlas_116
+  - first:
+      213: 4918424913362200006
+    second: Player Atlas_117
+  - first:
+      213: 8682227771168936095
+    second: Player Atlas_118
+  - first:
+      213: 1749137567881155366
+    second: Player Atlas_119
+  - first:
+      213: -8425527473626536350
+    second: Player Atlas_120
+  - first:
+      213: -6226181364383382181
+    second: Player Atlas_121
+  - first:
+      213: -8235661581590523572
+    second: Player Atlas_122
+  - first:
+      213: -6202424796239463626
+    second: Player Atlas_123
+  - first:
+      213: -3253922893278425317
+    second: Player Atlas_124
+  - first:
+      213: 2107020634835858850
+    second: Player Atlas_125
+  - first:
+      213: -7909627313909825834
+    second: Player Atlas_126
+  - first:
+      213: -1746504354885891644
+    second: Player Atlas_127
+  - first:
+      213: -6368882262780925098
+    second: Player Atlas_128
+  - first:
+      213: -1285778297904789695
+    second: Player Atlas_129
+  - first:
+      213: -2300215738525761650
+    second: Player Atlas_130
+  - first:
+      213: -3477075983388908171
+    second: Player Atlas_131
+  - first:
+      213: -6981514893555514681
+    second: Player Atlas_132
+  - first:
+      213: -4264266118091521957
+    second: Player Atlas_133
+  - first:
+      213: 4507201694443393989
+    second: Player Atlas_134
+  - first:
+      213: -1261605934366939553
+    second: Player Atlas_135
+  - first:
+      213: -3511313969613805431
+    second: Player Atlas_136
+  - first:
+      213: 8021102955779987432
+    second: Player Atlas_137
+  - first:
+      213: -1487902302009019371
+    second: Player Atlas_138
+  - first:
+      213: -7911127375773826808
+    second: Player Atlas_139
+  - first:
+      213: -1601893988502493858
+    second: Player Atlas_140
+  - first:
+      213: 3089515859269803929
+    second: Player Atlas_141
+  - first:
+      213: -3705134321506346820
+    second: Player Atlas_142
+  - first:
+      213: -4391468470162094521
+    second: Player Atlas_143
+  - first:
+      213: -1662046055625446080
+    second: Player Atlas_144
+  - first:
+      213: -7471325789973080964
+    second: Player Atlas_145
+  - first:
+      213: 3272441176029332778
+    second: Player Atlas_146
+  - first:
+      213: -2962731553043069677
+    second: Player Atlas_147
+  - first:
+      213: 2182039985945404968
+    second: Player Atlas_148
+  - first:
+      213: -2210548901943810972
+    second: Player Atlas_149
+  - first:
+      213: 1013638499905395216
+    second: Player Atlas_150
+  - first:
+      213: -1326230016213908415
+    second: Player Atlas_151
+  - first:
+      213: 1771321763683403582
+    second: Player Atlas_152
+  - first:
+      213: -2539519538021463691
+    second: Player Atlas_153
+  - first:
+      213: 3416973213525563076
+    second: Player Atlas_154
+  - first:
+      213: -2600915087197427996
+    second: Player Atlas_155
+  - first:
+      213: 7853051493416693245
+    second: Player Atlas_156
+  - first:
+      213: -853176640076769140
+    second: Player Atlas_157
+  - first:
+      213: -3643129286769548391
+    second: Player Atlas_158
+  - first:
+      213: -5107555562359096694
+    second: Player Atlas_159
+  - first:
+      213: -7152241273359449216
+    second: Player Atlas_160
+  - first:
+      213: -565120785052744663
+    second: Player Atlas_161
+  - first:
+      213: -3035804072142926897
+    second: Player Atlas_162
+  - first:
+      213: -2046005944241619658
+    second: Player Atlas_163
+  - first:
+      213: -2776169169716701163
+    second: Player Atlas_164
+  - first:
+      213: -2049931644017815730
+    second: Player Atlas_165
+  - first:
+      213: 5419345424749274983
+    second: Player Atlas_166
+  - first:
+      213: -6023652641889987250
+    second: Player Atlas_167
+  - first:
+      213: 3075025927394355536
+    second: Player Atlas_168
+  - first:
+      213: 6392507708406016934
+    second: Player Atlas_169
+  - first:
+      213: 9196443159932714372
+    second: Player Atlas_170
+  - first:
+      213: -8742585305130263486
+    second: Player Atlas_171
+  - first:
+      213: -1678640829859647867
+    second: Player Atlas_172
+  - first:
+      213: 58872072826272960
+    second: Player Atlas_173
+  - first:
+      213: 1919856395122293468
+    second: Player Atlas_174
+  - first:
+      213: -2320145709690828560
+    second: Player Atlas_175
+  - first:
+      213: 6918011059789437414
+    second: Player Atlas_176
+  - first:
+      213: -2964111825867483592
+    second: Player Atlas_177
+  - first:
+      213: 5630424335662256594
+    second: Player Atlas_178
+  - first:
+      213: 5735869473307613659
+    second: Player Atlas_179
+  - first:
+      213: -1939843399454457962
+    second: Player Atlas_180
+  - first:
+      213: 7542878283131123207
+    second: Player Atlas_181
+  - first:
+      213: 895688489745293828
+    second: Player Atlas_182
+  - first:
+      213: -2914690749716150605
+    second: Player Atlas_183
+  - first:
+      213: -3540739441384060830
+    second: Player Atlas_184
+  - first:
+      213: -5397596016821133345
+    second: Player Atlas_185
+  - first:
+      213: -2792853762402616306
+    second: Player Atlas_186
+  - first:
+      213: 4866938293829377558
+    second: Player Atlas_187
+  - first:
+      213: -5830576117822080675
+    second: Player Atlas_188
+  - first:
+      213: -7040655281527622677
+    second: Player Atlas_189
+  - first:
+      213: -6775250284510048370
+    second: Player Atlas_190
+  - first:
+      213: -5197344469367836967
+    second: Player Atlas_191
+  - first:
+      213: 1914712756794130226
+    second: Player Atlas_192
+  - first:
+      213: -7174437488829726775
+    second: Player Atlas_193
+  - first:
+      213: -831343969971578360
+    second: Player Atlas_194
+  - first:
+      213: -8262826947618111313
+    second: Player Atlas_195
+  - first:
+      213: -6259188546487959367
+    second: Player Atlas_196
+  - first:
+      213: 9040080269651922818
+    second: Player Atlas_197
+  - first:
+      213: 4120676625252437774
+    second: Player Atlas_198
+  - first:
+      213: -1796621279071370944
+    second: Player Atlas_199
+  - first:
+      213: 7329556984921063819
+    second: Player Atlas_200
+  - first:
+      213: 7574867482064575337
+    second: Player Atlas_201
+  - first:
+      213: -6323432362070019393
+    second: Player Atlas_202
+  - first:
+      213: 895947507857512169
+    second: Player Atlas_203
+  - first:
+      213: -7262911178055560263
+    second: Player Atlas_204
+  - first:
+      213: 2403023053978788271
+    second: Player Atlas_205
+  - first:
+      213: 903109003594339124
+    second: Player Atlas_206
+  - first:
+      213: -2499648227627529241
+    second: Player Atlas_207
+  - first:
+      213: 1130540369363939994
+    second: Player Atlas_208
+  - first:
+      213: 110156590401365987
+    second: Player Atlas_209
+  - first:
+      213: 3399231090625875574
+    second: Player Atlas_210
+  - first:
+      213: 1436244149854352092
+    second: Player Atlas_211
+  - first:
+      213: 4776624809754405110
+    second: Player Atlas_212
+  - first:
+      213: -1526189860515432024
+    second: Player Atlas_213
+  - first:
+      213: -9047302454786277087
+    second: Player Atlas_214
+  - first:
+      213: -1631933864152658011
+    second: Player Atlas_215
+  - first:
+      213: -2585114977023214370
+    second: Player Atlas_216
+  - first:
+      213: -7597045454365699922
+    second: Player Atlas_217
+  - first:
+      213: 3139575092754535076
+    second: Player Atlas_218
+  - first:
+      213: -6449171136277378837
+    second: Player Atlas_219
+  - first:
+      213: 6190962109408477276
+    second: Player Atlas_220
+  - first:
+      213: 247189271772453346
+    second: Player Atlas_221
+  - first:
+      213: -6785201175859635167
+    second: Player Atlas_222
+  - first:
+      213: 352905263693101866
+    second: Player Atlas_223
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e3fc233f015aa0800000000000000
+      internalID: -6174136901676310512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8647b1dc927193640800000000000000
+      internalID: 5060101124629689448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd0c35e826ee7a70800000000000000
+      internalID: 8826745383011749337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa795bd92a633a910800000000000000
+      internalID: 1847380344210560943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb18ab581636a3a70800000000000000
+      internalID: 8807461291782996415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006db883bdf085600800000000000000
+      internalID: 457132796399048192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8419425cff8151420800000000000000
+      internalID: 2600011846679564616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154c9524608e80fb0800000000000000
+      internalID: -4681236699071003567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b48706b699fa40800000000000000
+      internalID: 5402514936561971984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9f929be9e849830800000000000000
+      internalID: 4077040375039654308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b819a67aa2c9f00800000000000000
+      internalID: 1124820905471609600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0026eb0e8e6f37b30800000000000000
+      internalID: 4284039150622892544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce76c0ba863b5ace0800000000000000
+      internalID: -1394511247473612820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b1a33591396990800000000000000
+      internalID: -7392322796465834368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9372cc6c6deaf1500800000000000000
+      internalID: 369205931949172537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced656ab6306d270800000000000000
+      internalID: 8274805126226960069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ab9dff0bf635aa0800000000000000
+      internalID: -6173467858197431689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6483d3395449f90800000000000000
+      internalID: -6947851826436225283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148011a1d99c64de0800000000000000
+      internalID: -1349169361766512575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c060a1612d6111780800000000000000
+      internalID: -8714158712415451636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b61e8a0f18802c60800000000000000
+      internalID: 7791377022253405878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bff9b3e326894700800000000000000
+      internalID: 525098320267968438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748bfd4fdeda2b3a0800000000000000
+      internalID: -6651062462145644473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0821402eb4fd8e0800000000000000
+      internalID: -1666529903000780625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f343078e60fe680c0800000000000000
+      internalID: -4573705558599650241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f41903adb157b4e0800000000000000
+      internalID: -1966012837397981963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf598e43016ee8f0800000000000000
+      internalID: -509363041015865377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94756272280065520800000000000000
+      internalID: 2690338386403022665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6555023738dbb2c80800000000000000
+      internalID: -8346369112131218090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a157fcc9bba2502a0800000000000000
+      internalID: -6771959479403580134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5816b8dc51d94750800000000000000
+      internalID: 6289788551302617180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5136b62b1da181a60800000000000000
+      internalID: 7644889855405286165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe85ab0a8356290800000000000000
+      internalID: -7897844108551983257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672ab41be2957b130800000000000000
+      internalID: 3582430085674410614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07b3bf54a2c6aa00800000000000000
+      internalID: 767514797749286668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da3aa2037171aa0800000000000000
+      internalID: -6190453667156218614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd3c1ca6799adf00800000000000000
+      internalID: 1142394190464564682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e24f87ead0f2be0800000000000000
+      internalID: -1499965107886346662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465dd21eb81eea740800000000000000
+      internalID: 5165313813535118692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b21de116c2d2b30800000000000000
+      internalID: 4264113217830202229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733f4f03975786420800000000000000
+      internalID: 2623475946316165943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716bf20431c37ca90800000000000000
+      internalID: -7293795018124315113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7bd8e05cf5d2b70800000000000000
+      internalID: 8875855740574480370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf452667536cd0f10800000000000000
+      internalID: 2237662522794726652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31506327f2adbc50800000000000000
+      internalID: 6682676604421820734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6450b873ee5b6a0800000000000000
+      internalID: -6433974570305894681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d238371ca9fe720a0800000000000000
+      internalID: -6906288055599791315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed1553bea9458920800000000000000
+      internalID: 2991878542139399659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193324098dec78140800000000000000
+      internalID: 4721970163849769873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f644b18162d040800000000000000
+      internalID: 4670902973239850204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038e73daec54a42f0800000000000000
+      internalID: -987900414282700752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa7e3acb351709c0800000000000000
+      internalID: -3961174000708715790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04993597dd1fb4c20800000000000000
+      internalID: 3191910694447716672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f095d056509b720c0800000000000000
+      internalID: -4600505061514323697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ddec98b7aab2890800000000000000
+      internalID: -7481698908376212205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0677cf31d961e8e80800000000000000
+      internalID: -8174571409729882272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
