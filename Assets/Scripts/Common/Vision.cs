@@ -45,6 +45,11 @@ public static class Vision {
 		return dirs;
 	}
 
+	// Casts a circle simulating the way an entity can move in the given direction
+	public static RaycastHit2D MoveCast(Vector2 pos, Vector2 dir, float radius) {
+		return Physics2D.CircleCast(pos, radius, dir, 1e6f, mask);
+	}
+
 	// Returns a float array with the resolution of the vec2 array with distance values of rays cast outwards
 	// in a circle around the player
 	// The array dirs must be have normalized direction vectors going in a circle
