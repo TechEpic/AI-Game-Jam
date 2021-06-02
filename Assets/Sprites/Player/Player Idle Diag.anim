@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Player Idle Diagonal
+  m_Name: Player Idle Diag
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -21,35 +21,35 @@ AnimationClip:
   - curve:
     - time: 0
       value: {fileID: 525098320267968438, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 0.16666667
+    - time: 0.083333336
       value: {fileID: -6651062462145644473, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 0.33333334
+    - time: 0.16666667
       value: {fileID: -1666529903000780625, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 0.5
+    - time: 0.25
       value: {fileID: -4573705558599650241, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 0.6666667
+    - time: 0.33333334
       value: {fileID: -1966012837397981963, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 0.8333333
+    - time: 0.41666666
       value: {fileID: -509363041015865377, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 1
+    - time: 0.5
       value: {fileID: 2690338386403022665, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 1.1666666
+    - time: 0.5833333
       value: {fileID: -8346369112131218090, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 1.3333334
+    - time: 0.6666667
       value: {fileID: -6771959479403580134, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 1.5
+    - time: 0.75
       value: {fileID: 6289788551302617180, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 1.6666666
+    - time: 0.8333333
       value: {fileID: 7644889855405286165, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 1.8333334
+    - time: 0.9166667
       value: {fileID: -7897844108551983257, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
-    - time: 2
+    - time: 1
       value: {fileID: 3582430085674410614, guid: 29f63c9e09b655045bfa327aca271456, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
-  m_SampleRate: 6
+  m_SampleRate: 12
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -82,7 +82,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 2.1666667
+    m_StopTime: 1.0833334
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
