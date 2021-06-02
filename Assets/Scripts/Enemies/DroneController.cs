@@ -5,6 +5,9 @@ using UnityEngine;
 public class DroneController : MonoBehaviour {
 
 	public float BonkStrength = 2000;
+	public float VisionDelay = 0.5f;
+
+	float visionDelay;
 
 	GameObject player;
 	DirectedMovement mover;
@@ -12,36 +15,51 @@ public class DroneController : MonoBehaviour {
 	Vector2 targPos;
 	Dictionary<Vector2Int, Vector2> path;
 	bool changedPos;
+	bool isChasing;
 
 	void Start() {
 		// Grab the mover script and the player object
 		mover = gameObject.GetComponent<DirectedMovement>();
 		player = GameObject.Find("Player");
-		changedPos = true;
+		changedPos = false;
+		isChasing = false;
 	}
 
 	void Update() {
+		visionDelay -= Time.deltaTime;
 		// Check if the enemy can see the player
-		if(Vision.VisionCheck(player.transform.position, transform.position, 0.2f)) {
-			// Update the last known position of the player
-			changedPos = true;
-			targPos = player.transform.position;
-			mover.Movement = targPos - (Vector2) transform.position;
-		} else {
-			Vector2Int intPos = Vector2Int.RoundToInt(transform.position);
-			if(changedPos) {
-				path = Pathfinding.GetPath(intPos, Vector2Int.RoundToInt(targPos));
-				changedPos = false;
-			}
-
-			if(path != null && path.ContainsKey(intPos)) {
-				mover.Movement = path[intPos];
-			} else {
+		if(Vision.VisionCheck(player.transform.position, transform.position, 0.17f)) {
+			if(visionDelay <= 0) {
+				// Update the last known position of the player
 				changedPos = true;
+				targPos = player.transform.position;
+				mover.Movement = targPos - (Vector2) transform.position;
+				isChasing = true;
+			}
+		} else {
+			Vector2Int tilePos = Pathfinding.TileSpace(transform.position);
+			if(isChasing) {
+				if(changedPos) {
+					path = Pathfinding.GetPath(tilePos, Pathfinding.TileSpace(targPos));
+					changedPos = false;
+				}
+			} else {
+				visionDelay = VisionDelay;
+			}
+			if(path != null) {
+				if(path.ContainsKey(tilePos)) {
+					mover.Movement = path[tilePos];
+					if(mover.Movement == Vector2.zero) {
+						isChasing = false;
+					}
+				} else {
+					mover.Movement = Vector2.zero;
+					changedPos = true;
+				}
+			} else {
 				mover.Movement = Vector2.zero;
 			}
 		}
-		
 	}
 
 	void OnCollisionEnter2D(Collision2D col) {

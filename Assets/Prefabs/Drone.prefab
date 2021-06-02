@@ -137,6 +137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BonkStrength: 3000
+  VisionDelay: 0.5
 --- !u!114 &1263119706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -149,9 +150,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6006f4a30272724d859ef51eb88f772, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Acceleration: 50
-  Deceleration: 50
-  MaxSpeed: 3
+  Acceleration: 20
+  Deceleration: 20
+  MaxSpeed: 5
   Movement: {x: 0, y: 0}
 --- !u!114 &-7454255058920683739
 MonoBehaviour:
@@ -160,7 +161,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 343075962935104751}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 722c0a33f484f9f4c9b09fddf2c3fef7, type: 3}
   m_Name: 
