@@ -13,11 +13,10 @@ public class DroneAnimator : MonoBehaviour {
 		if(stationary == null) {
 			stationary = Resources.LoadAll<Sprite>("Drone");
 		}
-		sr.sprite = stationary[0];
 	}
 
-	
+	int fc = 0;
 	void Update() {
-		
+		sr.sprite = stationary[fc++ % stationary.Length];
 	}
 }
