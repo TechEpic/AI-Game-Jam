@@ -29,7 +29,7 @@ public class DirectedMovement : MonoBehaviour {
 		bool isSlowing = true;
 		Movement.Normalize();
 		// Determine if the player is accelerating in any direction
-		if(Movement.sqrMagnitude > 0) {
+		if(Movement.sqrMagnitude > 0 && speed <= MaxSpeed * 1.1f) {
 			isSlowing = false;
 			// Apply the accelerating force
 			Movement = Movement.normalized * Acceleration;
