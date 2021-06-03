@@ -15,7 +15,9 @@ public class DroneController : MonoBehaviour {
 	Vector2 targPos;
 	Dictionary<Vector2Int, Vector2> path;
 	bool changedPos;
-	bool isChasing;
+	
+	[HideInInspector]
+	public bool isChasing;
 
 	void Start() {
 		// Grab the mover script and the player object

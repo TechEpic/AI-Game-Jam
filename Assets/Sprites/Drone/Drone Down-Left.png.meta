@@ -1,0 +1,3780 @@
+fileFormatVersion: 2
+guid: 3b42cacd3756de64197905f9e3831267
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1496860183948921259
+    second: Drone Down-Left_0
+  - first:
+      213: 169723635739555102
+    second: Drone Down-Left_1
+  - first:
+      213: 7697929417361504133
+    second: Drone Down-Left_2
+  - first:
+      213: 8455341787026966321
+    second: Drone Down-Left_3
+  - first:
+      213: 7543429946621063351
+    second: Drone Down-Left_4
+  - first:
+      213: 3810634952282539848
+    second: Drone Down-Left_5
+  - first:
+      213: -1498479789702471696
+    second: Drone Down-Left_6
+  - first:
+      213: 6388492133843514953
+    second: Drone Down-Left_7
+  - first:
+      213: 4502745719349265082
+    second: Drone Down-Left_8
+  - first:
+      213: 505997480254143578
+    second: Drone Down-Left_9
+  - first:
+      213: -1291256668403706868
+    second: Drone Down-Left_10
+  - first:
+      213: 540911758061005842
+    second: Drone Down-Left_11
+  - first:
+      213: 5852492079378768958
+    second: Drone Down-Left_12
+  - first:
+      213: -8308383194112946032
+    second: Drone Down-Left_13
+  - first:
+      213: 7223318694231498344
+    second: Drone Down-Left_14
+  - first:
+      213: 3743435932169697423
+    second: Drone Down-Left_15
+  - first:
+      213: -1075426798911112393
+    second: Drone Down-Left_16
+  - first:
+      213: 4193247710232764086
+    second: Drone Down-Left_17
+  - first:
+      213: 4653658898506994830
+    second: Drone Down-Left_18
+  - first:
+      213: -9096932597562019590
+    second: Drone Down-Left_19
+  - first:
+      213: 6776881368546062559
+    second: Drone Down-Left_20
+  - first:
+      213: 3605946041810063307
+    second: Drone Down-Left_21
+  - first:
+      213: -2647683667903095289
+    second: Drone Down-Left_22
+  - first:
+      213: 448409613986488317
+    second: Drone Down-Left_23
+  - first:
+      213: 8411134623650278779
+    second: Drone Down-Left_24
+  - first:
+      213: -6948106841044457981
+    second: Drone Down-Left_25
+  - first:
+      213: 5502258466836442932
+    second: Drone Down-Left_26
+  - first:
+      213: 1736636496504413252
+    second: Drone Down-Left_27
+  - first:
+      213: -5043424110213928767
+    second: Drone Down-Left_28
+  - first:
+      213: 8478290477431068519
+    second: Drone Down-Left_29
+  - first:
+      213: 6298430012666903158
+    second: Drone Down-Left_30
+  - first:
+      213: -8734665366425286471
+    second: Drone Down-Left_31
+  - first:
+      213: -1577493363227185525
+    second: Drone Down-Left_32
+  - first:
+      213: 6637838777287275370
+    second: Drone Down-Left_33
+  - first:
+      213: -3480956267053169386
+    second: Drone Down-Left_34
+  - first:
+      213: -8182274439161063233
+    second: Drone Down-Left_35
+  - first:
+      213: 8057940582139957579
+    second: Drone Down-Left_36
+  - first:
+      213: -2248538136096608745
+    second: Drone Down-Left_37
+  - first:
+      213: 3249889403390166496
+    second: Drone Down-Left_38
+  - first:
+      213: 6934036726751907970
+    second: Drone Down-Left_39
+  - first:
+      213: -1005016157910539984
+    second: Drone Down-Left_40
+  - first:
+      213: -8756489415459591642
+    second: Drone Down-Left_41
+  - first:
+      213: 2080070738791267239
+    second: Drone Down-Left_42
+  - first:
+      213: -8409532190193976193
+    second: Drone Down-Left_43
+  - first:
+      213: -677718383158871292
+    second: Drone Down-Left_44
+  - first:
+      213: -3927880456743745223
+    second: Drone Down-Left_45
+  - first:
+      213: -4237021966498491812
+    second: Drone Down-Left_46
+  - first:
+      213: 9186266657153919259
+    second: Drone Down-Left_47
+  - first:
+      213: -1466443928145274798
+    second: Drone Down-Left_48
+  - first:
+      213: 1007364837203707200
+    second: Drone Down-Left_49
+  - first:
+      213: -818520932980779506
+    second: Drone Down-Left_50
+  - first:
+      213: 4063313238938367236
+    second: Drone Down-Left_51
+  - first:
+      213: 1618448312281808071
+    second: Drone Down-Left_52
+  - first:
+      213: 1363856544855223862
+    second: Drone Down-Left_53
+  - first:
+      213: -8890595647849967415
+    second: Drone Down-Left_54
+  - first:
+      213: 5863807965155956249
+    second: Drone Down-Left_55
+  - first:
+      213: 4148027089383814611
+    second: Drone Down-Left_56
+  - first:
+      213: -4833629577590801752
+    second: Drone Down-Left_57
+  - first:
+      213: 4546864572576191543
+    second: Drone Down-Left_58
+  - first:
+      213: -7826463675317676179
+    second: Drone Down-Left_59
+  - first:
+      213: -6937812276022648665
+    second: Drone Down-Left_60
+  - first:
+      213: 1253578085304026688
+    second: Drone Down-Left_61
+  - first:
+      213: 5836772124028588720
+    second: Drone Down-Left_62
+  - first:
+      213: -7714334924574821555
+    second: Drone Down-Left_63
+  - first:
+      213: 684365729793304985
+    second: Drone Down-Left_64
+  - first:
+      213: -3385266945320082593
+    second: Drone Down-Left_65
+  - first:
+      213: -7692778771358027753
+    second: Drone Down-Left_66
+  - first:
+      213: -5428746079209348191
+    second: Drone Down-Left_67
+  - first:
+      213: 4677943575288227371
+    second: Drone Down-Left_68
+  - first:
+      213: -5377718130303828945
+    second: Drone Down-Left_69
+  - first:
+      213: 7392394647895135942
+    second: Drone Down-Left_70
+  - first:
+      213: 6690120744386033375
+    second: Drone Down-Left_71
+  - first:
+      213: -883622262697525317
+    second: Drone Down-Left_72
+  - first:
+      213: -6842107160373350558
+    second: Drone Down-Left_73
+  - first:
+      213: -3446171077386435364
+    second: Drone Down-Left_74
+  - first:
+      213: 4207832522246702779
+    second: Drone Down-Left_75
+  - first:
+      213: 3810451175397055401
+    second: Drone Down-Left_76
+  - first:
+      213: 6838744029120195703
+    second: Drone Down-Left_77
+  - first:
+      213: -2922238409723609482
+    second: Drone Down-Left_78
+  - first:
+      213: -8847079937595997792
+    second: Drone Down-Left_79
+  - first:
+      213: 4182357491811450686
+    second: Drone Down-Left_80
+  - first:
+      213: -5543790732101756435
+    second: Drone Down-Left_81
+  - first:
+      213: 1801904557952211929
+    second: Drone Down-Left_82
+  - first:
+      213: 1297607795679824445
+    second: Drone Down-Left_83
+  - first:
+      213: 7554237808321617074
+    second: Drone Down-Left_84
+  - first:
+      213: -4863088413882416351
+    second: Drone Down-Left_85
+  - first:
+      213: 5846908119544937354
+    second: Drone Down-Left_86
+  - first:
+      213: 5051606158541136270
+    second: Drone Down-Left_87
+  - first:
+      213: 3084588626319548242
+    second: Drone Down-Left_88
+  - first:
+      213: 7154400844186894104
+    second: Drone Down-Left_89
+  - first:
+      213: 9068050348892949726
+    second: Drone Down-Left_90
+  - first:
+      213: -3017269272679933158
+    second: Drone Down-Left_91
+  - first:
+      213: 5558653172259421381
+    second: Drone Down-Left_92
+  - first:
+      213: -8935022924465431015
+    second: Drone Down-Left_93
+  - first:
+      213: -1652756941707456402
+    second: Drone Down-Left_94
+  - first:
+      213: -2030298793874943728
+    second: Drone Down-Left_95
+  - first:
+      213: 3417366472228516231
+    second: Drone Down-Left_96
+  - first:
+      213: 2122375922417150204
+    second: Drone Down-Left_97
+  - first:
+      213: 5213838534522421231
+    second: Drone Down-Left_98
+  - first:
+      213: 4195259515282643264
+    second: Drone Down-Left_99
+  - first:
+      213: 9075625504366711548
+    second: Drone Down-Left_100
+  - first:
+      213: 3425957824061944985
+    second: Drone Down-Left_101
+  - first:
+      213: -3632778794847932823
+    second: Drone Down-Left_102
+  - first:
+      213: -2023574822633492956
+    second: Drone Down-Left_103
+  - first:
+      213: 3961594638840887361
+    second: Drone Down-Left_104
+  - first:
+      213: -3339981370423882641
+    second: Drone Down-Left_105
+  - first:
+      213: 16653906335221231
+    second: Drone Down-Left_106
+  - first:
+      213: 6773224680209512052
+    second: Drone Down-Left_107
+  - first:
+      213: -6151022308353028599
+    second: Drone Down-Left_108
+  - first:
+      213: -1820653363411316708
+    second: Drone Down-Left_109
+  - first:
+      213: -7533478906389790965
+    second: Drone Down-Left_110
+  - first:
+      213: -9002436353196659175
+    second: Drone Down-Left_111
+  - first:
+      213: 6391704493725521059
+    second: Drone Down-Left_112
+  - first:
+      213: 81002556745183186
+    second: Drone Down-Left_113
+  - first:
+      213: 2167973105476455166
+    second: Drone Down-Left_114
+  - first:
+      213: 2042094513591082574
+    second: Drone Down-Left_115
+  - first:
+      213: -6754013653314327235
+    second: Drone Down-Left_116
+  - first:
+      213: 5461441972005072989
+    second: Drone Down-Left_117
+  - first:
+      213: 3796817651380217644
+    second: Drone Down-Left_118
+  - first:
+      213: 6012656493493780831
+    second: Drone Down-Left_119
+  - first:
+      213: 6738310267606233349
+    second: Drone Down-Left_120
+  - first:
+      213: -3293962570207432566
+    second: Drone Down-Left_121
+  - first:
+      213: 499901623582493993
+    second: Drone Down-Left_122
+  - first:
+      213: -7559734490696653149
+    second: Drone Down-Left_123
+  - first:
+      213: 5276325137410203148
+    second: Drone Down-Left_124
+  - first:
+      213: 8732914793870672127
+    second: Drone Down-Left_125
+  - first:
+      213: 7388314394912882131
+    second: Drone Down-Left_126
+  - first:
+      213: -4919231167192007665
+    second: Drone Down-Left_127
+  - first:
+      213: -8341466866994487455
+    second: Drone Down-Left_128
+  - first:
+      213: -6169815206491795215
+    second: Drone Down-Left_129
+  - first:
+      213: -6161768411961791829
+    second: Drone Down-Left_130
+  - first:
+      213: 1445585513024208219
+    second: Drone Down-Left_131
+  - first:
+      213: -7611338090181940637
+    second: Drone Down-Left_132
+  - first:
+      213: -3502270141790787671
+    second: Drone Down-Left_133
+  - first:
+      213: 2862911785881654910
+    second: Drone Down-Left_134
+  - first:
+      213: 3530327005183388548
+    second: Drone Down-Left_135
+  - first:
+      213: 1558172333777363013
+    second: Drone Down-Left_136
+  - first:
+      213: 4707953805924179841
+    second: Drone Down-Left_137
+  - first:
+      213: 4810712440960585039
+    second: Drone Down-Left_138
+  - first:
+      213: -5785243530189891887
+    second: Drone Down-Left_139
+  - first:
+      213: -1021100030144399650
+    second: Drone Down-Left_140
+  - first:
+      213: 2898549117980801305
+    second: Drone Down-Left_141
+  - first:
+      213: -1287267916866307172
+    second: Drone Down-Left_142
+  - first:
+      213: 8694540697017774434
+    second: Drone Down-Left_143
+  - first:
+      213: 3072256410077853523
+    second: Drone Down-Left_144
+  - first:
+      213: 8763155204248534241
+    second: Drone Down-Left_145
+  - first:
+      213: 724575424681684150
+    second: Drone Down-Left_146
+  - first:
+      213: -1636712757752971304
+    second: Drone Down-Left_147
+  - first:
+      213: 8672793423169685767
+    second: Drone Down-Left_148
+  - first:
+      213: 8516430965964343923
+    second: Drone Down-Left_149
+  - first:
+      213: -7039504451037067545
+    second: Drone Down-Left_150
+  - first:
+      213: -3392871682279678495
+    second: Drone Down-Left_151
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drone Down-Left_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 596
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba983b6186ae5c410800000000000000
+      internalID: 1496860183948921259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 572
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e157e3a5fbafa5200800000000000000
+      internalID: 169723635739555102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 572
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587bcdb050a84da60800000000000000
+      internalID: 7697929417361504133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 572
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13742469e88675570800000000000000
+      internalID: 8455341787026966321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 572
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07464d195afa860800000000000000
+      internalID: 7543429946621063351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 572
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8470d7bac4812e430800000000000000
+      internalID: 3810634952282539848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 572
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff9eaf0294543be0800000000000000
+      internalID: -1498479789702471696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 572
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946be108fbb78a850800000000000000
+      internalID: 6388492133843514953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 548
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab249bb0067fc7e30800000000000000
+      internalID: 4502745719349265082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 548
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c7ac3070aa50700800000000000000
+      internalID: 505997480254143578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 548
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0451f5c6e8841ee0800000000000000
+      internalID: -1291256668403706868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 548
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cee0ac064b18700800000000000000
+      internalID: 540911758061005842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 548
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34a822d98a383150800000000000000
+      internalID: 5852492079378768958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 548
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09092113181b2bc80800000000000000
+      internalID: -8308383194112946032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 548
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e5b15e4126e3460800000000000000
+      internalID: 7223318694231498344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 524
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887860952b53f330800000000000000
+      internalID: 3743435932169697423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 524
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bb7f436015311f0800000000000000
+      internalID: -1075426798911112393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 524
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bed4af5398613a30800000000000000
+      internalID: 4193247710232764086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 524
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84585fac1e159040800000000000000
+      internalID: 4653658898506994830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 524
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0f4a8000431c180800000000000000
+      internalID: -9096932597562019590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 524
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0b62103b15c0e50800000000000000
+      internalID: 6776881368546062559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 524
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8055e1d4ea0230800000000000000
+      internalID: 3605946041810063307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 500
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e58096bb9814bd0800000000000000
+      internalID: -2647683667903095289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 500
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffd88b0b22193600800000000000000
+      internalID: 448409613986488317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 500
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7de9a8406a5ab470800000000000000
+      internalID: 8411134623650278779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 500
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306651604ad539f90800000000000000
+      internalID: -6948106841044457981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43feb226ce2fb5c40800000000000000
+      internalID: 5502258466836442932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 500
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cdf1641b5c91810800000000000000
+      internalID: 1736636496504413252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 500
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8ee033e78220ab0800000000000000
+      internalID: -5043424110213928767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 476
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671bd1f440f8a570800000000000000
+      internalID: 8478290477431068519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 476
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a7babd9b4886750800000000000000
+      internalID: 6298430012666903158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 476
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b84052a02c38c680800000000000000
+      internalID: -8734665366425286471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 476
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eae41e42e9b1ae0800000000000000
+      internalID: -1577493363227185525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 476
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63758cf2375e1c50800000000000000
+      internalID: 6637838777287275370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 476
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61540afc7b821bfc0800000000000000
+      internalID: -3480956267053169386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 476
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8db07cfb8b27e80800000000000000
+      internalID: -8182274439161063233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 452
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4118a3444e83df60800000000000000
+      internalID: 8057940582139957579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 452
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eea0e7a769bc0e0800000000000000
+      internalID: -2248538136096608745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 452
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58068913de91d20800000000000000
+      internalID: 3249889403390166496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 452
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805f853aa5aa3060800000000000000
+      internalID: 6934036726751907970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 452
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e63211277d02f0800000000000000
+      internalID: -1005016157910539984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 452
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a20104543ba7680800000000000000
+      internalID: -8756489415459591642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 452
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab7655f055eddc10800000000000000
+      internalID: 2080070738791267239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 428
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c764457075b4b80800000000000000
+      internalID: -8409532190193976193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_44
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 428
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b3012a8b24896f0800000000000000
+      internalID: -677718383158871292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 428
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939079f098d5d79c0800000000000000
+      internalID: -3927880456743745223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 428
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52945d58f21335c0800000000000000
+      internalID: -4237021966498491812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 428
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19acaf8adc2c7f70800000000000000
+      internalID: 9186266657153919259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_48
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 428
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2585fd3540526abe0800000000000000
+      internalID: -1466443928145274798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 428
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0450fb07bf0eafd00800000000000000
+      internalID: 1007364837203707200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 404
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0695745c8704a4f0800000000000000
+      internalID: -818520932980779506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 404
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405301accd9c36830800000000000000
+      internalID: 4063313238938367236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 404
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc33e44a22e57610800000000000000
+      internalID: 1618448312281808071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eefa03d446de210800000000000000
+      internalID: 1363856544855223862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 380
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d448dc524e9480800000000000000
+      internalID: -8890595647849967415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_55
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 380
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9161a3ac64e606150800000000000000
+      internalID: 5863807965155956249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 380
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d57b6d19a0c09930800000000000000
+      internalID: 4148027089383814611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 380
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaf0e3428f7becb0800000000000000
+      internalID: -4833629577590801752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 380
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734563a0d35b91f30800000000000000
+      internalID: 4546864572576191543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 356
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671131f0c0d26390800000000000000
+      internalID: -7826463675317676179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_60
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 356
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a063593e70f7bf90800000000000000
+      internalID: -6937812276022648665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 356
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c2c870aa956110800000000000000
+      internalID: 1253578085304026688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_62
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 356
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b250af7251600150800000000000000
+      internalID: 5836772124028588720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 356
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43f356224d21f490800000000000000
+      internalID: -7714334924574821555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 332
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e7cc510b5f7900800000000000000
+      internalID: 684365729793304985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 332
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53235e26ad1501d0800000000000000
+      internalID: -3385266945320082593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_66
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 332
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f98d2772cd3590800000000000000
+      internalID: -7692778771358027753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 332
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3aee4243839a4b0800000000000000
+      internalID: -5428746079209348191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 332
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26206c95e46be040800000000000000
+      internalID: 4677943575288227371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 308
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cff055ad18e55b0800000000000000
+      internalID: -5377718130303828945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_70
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 308
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6d94304cf079660800000000000000
+      internalID: 7392394647895135942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 308
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f9990f5518dc50800000000000000
+      internalID: 6690120744386033375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_72
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 308
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf7944db3ebcb3f0800000000000000
+      internalID: -883622262697525317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 308
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f2ac6e9c3fb01a0800000000000000
+      internalID: -6842107160373350558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 284
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd40829e9adbc20d0800000000000000
+      internalID: -3446171077386435364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_75
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 284
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6c9da8269356a30800000000000000
+      internalID: 4207832522246702779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_76
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 284
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abd287c72171e430800000000000000
+      internalID: 3810451175397055401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 284
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c6885167918ee50800000000000000
+      internalID: 6838744029120195703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 284
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67efb6726af1277d0800000000000000
+      internalID: -2922238409723609482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 260
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a10b1cababd83580800000000000000
+      internalID: -8847079937595997792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f7d1fcaf7ba0a30800000000000000
+      internalID: 4182357491811450686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9d8ff83bf7013b0800000000000000
+      internalID: -5543790732101756435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_82
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db16e706a6a10910800000000000000
+      internalID: 1801904557952211929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_83
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a06474a67020210800000000000000
+      internalID: 1297607795679824445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_84
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcd5d9334b06d860800000000000000
+      internalID: 7554237808321617074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_85
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12388337ad6d28cb0800000000000000
+      internalID: -4863088413882416351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_86
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bb2dbd4f3642150800000000000000
+      internalID: 5846908119544937354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8125016909ea1640800000000000000
+      internalID: 5051606158541136270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f9cf54309aeca20800000000000000
+      internalID: 3084588626319548242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_89
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fb38289a9894360800000000000000
+      internalID: 7154400844186894104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc0f1b6fbf28dd70800000000000000
+      internalID: 9068050348892949726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_91
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b163a25918026d0800000000000000
+      internalID: -3017269272679933158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_92
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccfe12fb9d442d40800000000000000
+      internalID: 5558653172259421381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_93
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 215
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e144f6dfb600480800000000000000
+      internalID: -8935022924465431015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_94
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 214
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e605775715a3019e0800000000000000
+      internalID: -1652756941707456402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_95
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111e23010ee2d3e0800000000000000
+      internalID: -2030298793874943728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781b28453bcec6f20800000000000000
+      internalID: 3417366472228516231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_97
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8248718a1347d10800000000000000
+      internalID: 2122375922417150204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_98
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefb376e5864b5840800000000000000
+      internalID: 5213838534522421231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_99
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049dffc3d4e883a30800000000000000
+      internalID: 4195259515282643264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_100
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d04ebf4913fd70800000000000000
+      internalID: 9075625504366711548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_101
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994beae4d727b8f20800000000000000
+      internalID: 3425957824061944985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_102
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6481fee6c59dc0800000000000000
+      internalID: -3632778794847932823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_103
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ea1809b61dae3e0800000000000000
+      internalID: -2023574822633492956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148f338a5596af630800000000000000
+      internalID: 3961594638840887361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_105
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c467bb3a006a1d0800000000000000
+      internalID: -3339981370423882641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_106
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5cb3bb3aa2b3000800000000000000
+      internalID: 16653906335221231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_107
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476fbc7e5f35ffd50800000000000000
+      internalID: 6773224680209512052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_108
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e4d11dccd23aaa0800000000000000
+      internalID: -6151022308353028599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_109
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c109fb6896dbbb6e0800000000000000
+      internalID: -1820653363411316708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffcb549d4b37790800000000000000
+      internalID: -7533478906389790965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_111
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e66ae65dbe01380800000000000000
+      internalID: -9002436353196659175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a417c15f55e3b850800000000000000
+      internalID: 6391704493725521059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_113
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfe1bc6567cf1100800000000000000
+      internalID: 81002556745183186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_114
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa46829d00361e10800000000000000
+      internalID: 2167973105476455166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ede50042af65c10800000000000000
+      internalID: 2042094513591082574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_116
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3daf0add5ce442a0800000000000000
+      internalID: -6754013653314327235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_117
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5075ce9980facb40800000000000000
+      internalID: 5461441972005072989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_118
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27637b998101b430800000000000000
+      internalID: 3796817651380217644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_119
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f518423793f317350800000000000000
+      internalID: 6012656493493780831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501790fbc79438d50800000000000000
+      internalID: 6738310267606233349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_121
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 120
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807a5b9e7e7942d0800000000000000
+      internalID: -3293962570207432566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_122
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 120
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d8648c0e100f600800000000000000
+      internalID: 499901623582493993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_123
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 120
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6e1cda88d661790800000000000000
+      internalID: -7559734490696653149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_124
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 120
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e9cced1c5493940800000000000000
+      internalID: 5276325137410203148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_125
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 119
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff04a6e6cbb813970800000000000000
+      internalID: 8732914793870672127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_126
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddffa51cc0988660800000000000000
+      internalID: 7388314394912882131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_127
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 120
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c7d7f01516bbbb0800000000000000
+      internalID: -4919231167192007665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_128
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f5a1754182d3c80800000000000000
+      internalID: -8341466866994487455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_129
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0d04f32c9606aa0800000000000000
+      internalID: -6169815206491795215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_130
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6bc896400d7aa0800000000000000
+      internalID: -6161768411961791829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_131
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d32447d50cf0410800000000000000
+      internalID: 1445585513024208219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_132
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a2e4565581f5690800000000000000
+      internalID: -7611338090181940637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_133
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a76a13acdf656fc0800000000000000
+      internalID: -3502270141790787671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_134
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7651c4d91b1bb720800000000000000
+      internalID: 2862911785881654910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_135
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bacece4bd3ef030800000000000000
+      internalID: 3530327005183388548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_136
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54024a56b7dbf9510800000000000000
+      internalID: 1558172333777363013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_137
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f1f0dea03065140800000000000000
+      internalID: 4707953805924179841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_138
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d02001a7513c240800000000000000
+      internalID: 4810712440960585039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_139
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d697eb29afa6bfa0800000000000000
+      internalID: -5785243530189891887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_140
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed63a1fbee254d1f0800000000000000
+      internalID: -1021100030144399650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_141
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919744dc017b93820800000000000000
+      internalID: 2898549117980801305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_142
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3d6c56a4b22ee0800000000000000
+      internalID: -1287267916866307172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_143
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261fbe2c2b639a870800000000000000
+      internalID: 8694540697017774434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_144
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3577b9d6de8d2aa20800000000000000
+      internalID: 3072256410077853523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_145
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec79d4aa3bfc9970800000000000000
+      internalID: 8763155204248534241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_146
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc212182853e0a00800000000000000
+      internalID: 724575424681684150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_147
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfb8c22b6a3949e0800000000000000
+      internalID: -1636712757752971304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_148
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7098f5efaa3fb5870800000000000000
+      internalID: 8672793423169685767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_149
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 48
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a017077d0703670800000000000000
+      internalID: 8516430965964343923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_150
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e68729aff7ae4e90800000000000000
+      internalID: -7039504451037067545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone Down-Left_151
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eddc316e291ae0d0800000000000000
+      internalID: -3392871682279678495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

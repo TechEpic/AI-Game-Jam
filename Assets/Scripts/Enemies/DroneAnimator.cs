@@ -9,11 +9,12 @@ public class DroneAnimator : MonoBehaviour {
 	static readonly int IDLE = 1;
 	static readonly int SIGNAL = 2;
 	static readonly int WALK = 3;
-	static int dirOffset = 100;
-	static int[] stateOffsets = {0, 0, 30, 60, dirOffset};
+	static int dirOffset = 151;
+	static int[] stateOffsets = {0, 0, 54, 80, dirOffset};
 	static Sprite[] sprites;
 
 	int curState;
+	int prevDir;
 	float animIndex;
 	SpriteRenderer sr;
 	Rigidbody2D rb;
@@ -26,14 +27,31 @@ public class DroneAnimator : MonoBehaviour {
 		}
 		animIndex = 0;
 		curState = IDLE;
+		Debug.Log(sprites.Length);
+		prevDir = 0;
 	}
 
 
 	void Update() {
+		int direction = 0;
+		bool isMoving = rb.velocity.sqrMagnitude > 0.01;
+		if(curState == IDLE && (isMoving || gameObject.GetComponent<DroneController>().isChasing)) {
+			curState = WALK;
+			animIndex = 0;
+		} else if(curState == WALK && (!isMoving && !gameObject.GetComponent<DroneController>().isChasing)) {
+			curState = IDLE;
+			animIndex = 0;
+		}
+		if(isMoving) {
+			direction = (int) ((Mathf.Atan2(rb.velocity.y, rb.velocity.x) + Mathf.PI * 1.125) / Mathf.PI * 4) % 8;
+		} else {
+			direction = prevDir;
+		}
 		animIndex += Time.deltaTime * Speed;
 		animIndex %= stateOffsets[curState + 1] - stateOffsets[curState];
-
-		int index = (int) (animIndex + (int) ((Mathf.Atan2(rb.velocity.y, rb.velocity.x) + Mathf.PI) / Mathf.PI * 4) * dirOffset);
-
+		// maffy waffy
+		int index = (int) animIndex + direction * dirOffset + stateOffsets[curState];
+		sr.sprite = sprites[index];
+		prevDir = direction;
 	}
 }
