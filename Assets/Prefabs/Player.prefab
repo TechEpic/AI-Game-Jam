@@ -102,7 +102,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.17
 --- !u!50 &515879625213828126
 Rigidbody2D:
   serializedVersion: 4
@@ -136,6 +136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9a8a2238b8e22d4588d138963b1ab61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 0}
 --- !u!114 &-2271661358317809542
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -167,3 +168,5 @@ MonoBehaviour:
   MaxHealth: 3
   HealPeriod: 1
   HealDelay: 10
+  AnimSpeed: 20
+  Heart: {fileID: 1466781380268199808, guid: a0da2cb4d8ae2c141924f4e2051ff166, type: 3}

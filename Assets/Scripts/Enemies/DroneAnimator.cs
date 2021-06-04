@@ -27,7 +27,6 @@ public class DroneAnimator : MonoBehaviour {
 		}
 		animIndex = 0;
 		curState = IDLE;
-		Debug.Log(sprites.Length);
 		prevDir = 0;
 	}
 
