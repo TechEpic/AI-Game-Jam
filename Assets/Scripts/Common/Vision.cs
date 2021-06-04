@@ -4,8 +4,8 @@ public static class Vision {
 	
 	static LayerMask mask;
 	static GameObject player;
-
-	static Vision() {
+	
+	public static void InitVars() {
 		player = GameObject.Find("Player");
 		mask = LayerMask.GetMask("Default");
 	}

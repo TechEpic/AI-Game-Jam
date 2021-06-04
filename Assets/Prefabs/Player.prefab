@@ -137,6 +137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 0}
+  JumpCD: 10
 --- !u!114 &-2271661358317809542
 MonoBehaviour:
   m_ObjectHideFlags: 0

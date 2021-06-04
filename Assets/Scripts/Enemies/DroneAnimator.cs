@@ -19,12 +19,15 @@ public class DroneAnimator : MonoBehaviour {
 	SpriteRenderer sr;
 	Rigidbody2D rb;
 
+	GameObject player;
+
 	void Start() {
 		sr = gameObject.GetComponent<SpriteRenderer>();
 		rb = gameObject.GetComponent<Rigidbody2D>();
 		if(sprites == null) {
 			sprites = Resources.LoadAll<Sprite>("Drone");
 		}
+		player = GameObject.Find("Player");
 		animIndex = 0;
 		curState = IDLE;
 		prevDir = 0;
@@ -43,9 +46,14 @@ public class DroneAnimator : MonoBehaviour {
 		}
 		if(isMoving) {
 			direction = (int) ((Mathf.Atan2(rb.velocity.y, rb.velocity.x) + Mathf.PI * 1.125) / Mathf.PI * 4) % 8;
+			if(!gameObject.GetComponent<AudioSource>().isPlaying) {
+				gameObject.GetComponent<AudioSource>().Play();
+			}
 		} else {
+			gameObject.GetComponent<AudioSource>().Stop();
 			direction = prevDir;
 		}
+		gameObject.GetComponent<AudioSource>().volume = 3f / ((transform.position - player.transform.position).magnitude + 3);
 		animIndex += Time.deltaTime * Speed;
 		animIndex %= stateOffsets[curState + 1] - stateOffsets[curState];
 		// maffy waffy

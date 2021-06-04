@@ -27,19 +27,38 @@ public class PlayerHealth : MonoBehaviour {
 	GameObject[] hearts;
 	GameObject ability;
 
+	public GameObject Poof;
+
 	public int GetHealth() {
 		return health;
 	}
 
 	public bool Hurt(int amt) {
 		health -= amt;
-		if(health <= 0) {
-			//Unga bunga you lose
-			Debug.Log("player is super ded");
+		if(health == 0) {
+			gameObject.GetComponent<PlayerController>().enabled = false;
+			UpdateHearts();
+			base.enabled = false;
+			gameObject.GetComponent<DirectedMovement>().Movement = Vector2.zero;
+			gameObject.GetComponents<AudioSource>()[4].Play();
+			gameObject.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
+			gameObject.GetComponent<CircleCollider2D>().enabled = false;
+			Instantiate(Poof, transform.position, Quaternion.identity);
+			HideAll();
 			return true;
 		}
+		if(health > 0)
+			gameObject.GetComponents<AudioSource>()[1].Play();
 		healTime = HealDelay;
 		return false;
+	}
+
+	public void HideAll() {
+		foreach(GameObject heart in hearts) {
+			heart.GetComponent<SpriteRenderer>().enabled = false;
+		}
+		ability.GetComponent<SpriteRenderer>().enabled = false;
+		gameObject.GetComponent<SpriteRenderer>().enabled = false;
 	}
 
 	public bool Heal(int amt) {
@@ -94,5 +113,9 @@ public class PlayerHealth : MonoBehaviour {
 		}
 		UpdateHearts();
 		ability.GetComponent<SpriteRenderer>().sprite = sprites[(int) (abilIndex + 10) % 60 + 96];
+		if(PlayerController.jumpCD <= 0 && !ability.GetComponent<SpriteRenderer>().enabled) {
+			gameObject.GetComponents<AudioSource>()[3].Play();
+		}
+		ability.GetComponent<SpriteRenderer>().enabled = PlayerController.jumpCD <= 0;
 	}
 }

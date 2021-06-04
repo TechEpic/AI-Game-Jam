@@ -8,9 +8,8 @@ public static class Pathfinding {
 	static Vector2Int[] dirsX = {Vector2Int.down, Vector2Int.up, Vector2Int.left, Vector2Int.right};
 	static Vector2Int[] dirsY = {Vector2Int.left, Vector2Int.right, Vector2Int.down, Vector2Int.up};
 	static Tilemap map;
-	
 
-	static Pathfinding() {
+	public static void InitVars() {
 		map = GameObject.Find("Collidable").GetComponent<Tilemap>();
 	}
 

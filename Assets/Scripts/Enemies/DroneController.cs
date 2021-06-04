@@ -1,8 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DroneController : MonoBehaviour {
+
+	public static float Difficulty = 1;
 
 	public float BonkStrength = 2000;
 	public float VisionDelay = 0.5f;

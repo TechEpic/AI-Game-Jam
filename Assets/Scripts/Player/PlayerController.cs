@@ -8,11 +8,20 @@ public class PlayerController : MonoBehaviour {
 
 	public Animator animator;
 
+	public float JumpCD = 10;
+	public static float jumpCD = 0;
+
+
 	bool diagonal;
 
 	public static bool isJumping = false;
 	public static float JumpVision = 2f;
 	float jumpTimer = 0;
+
+	void Awake() {
+		Vision.InitVars();
+		Pathfinding.InitVars();
+	}
 
 	void Start() {
 		// Grab the mover
@@ -21,6 +30,7 @@ public class PlayerController : MonoBehaviour {
 	}
 
 	void Update() {
+		jumpCD -= Time.deltaTime;
 		// Determine the direction that the player wants to move in
 		Vector2 movement = new Vector2(0, 0);
 		if(Input.GetKey(KeyCode.W)) {
@@ -35,9 +45,10 @@ public class PlayerController : MonoBehaviour {
 		if(Input.GetKey(KeyCode.D)) {
 			movement += new Vector2(1, 0);
 		}
-		if(Input.GetKeyDown(KeyCode.Space)) {
+		if(Input.GetKeyDown(KeyCode.Space) && jumpCD <= 0) {
 			isJumping = true;
 			jumpTimer = 1f;
+			gameObject.GetComponents<AudioSource>()[2].Play();
 		}
 		if(jumpTimer <= 0 && isJumping) {
 			isJumping = false;
@@ -57,6 +68,7 @@ public class PlayerController : MonoBehaviour {
 					transform.position = (Vector2) transform.position - dir * hit.distance + dir;
 				}
 			}
+			jumpCD = JumpCD;
 		} else {
 			jumpTimer -= Time.deltaTime;
 		}
@@ -72,6 +84,11 @@ public class PlayerController : MonoBehaviour {
 			}
 			diagonal = moveAngle > Mathf.PI / 8;
 			rb.transform.eulerAngles = Vector3.forward * moveDir * 90;
+			if(!gameObject.GetComponents<AudioSource>()[0].isPlaying) {
+				gameObject.GetComponents<AudioSource>()[0].Play();
+			}
+		} else {
+			gameObject.GetComponents<AudioSource>()[0].Stop();
 		}
 		animator.SetFloat("speed", speed);
 		animator.SetBool("diagonal", diagonal);
