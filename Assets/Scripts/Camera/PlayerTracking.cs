@@ -17,7 +17,9 @@ public class PlayerTracking : MonoBehaviour {
 
 	// Update is called once per frame
 	void LateUpdate() {
-		Vector2 deltaPosition = player.transform.position - gameObject.transform.position;
+		Vector2 targ = player.transform.position 
+			+ (Camera.main.ScreenToWorldPoint(Input.mousePosition) - Camera.main.transform.position) / 3;
+		Vector2 deltaPosition = (Vector3) targ - gameObject.transform.position;
 		transform.position += (Vector3) (logClosingRatio * deltaPosition * Time.deltaTime);
 	}
 }

@@ -17,6 +17,8 @@ public class OcclusionHiding : MonoBehaviour {
 
 	void Update() {
 		// Only show if visible to the player
-		sr.enabled = Vision.VisionCheck(transform.position, player.transform.position, Radius);
+		sr.enabled = Vision.VisionCheck(transform.position, player.transform.position, Radius)
+			|| (PlayerController.isJumping
+			&& (transform.position - player.transform.position).magnitude < Radius + PlayerController.JumpVision);
 	}
 }

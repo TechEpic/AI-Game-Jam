@@ -13,6 +13,7 @@ public class PlayerHealth : MonoBehaviour {
 	public float AnimSpeed = 20;
 
 	public GameObject Heart;
+	public GameObject Ability;
 	
 
 	static Sprite[] sprites;
@@ -21,8 +22,10 @@ public class PlayerHealth : MonoBehaviour {
 	float healTime;
 
 	float animIndex;
+	float abilIndex;
 
 	GameObject[] hearts;
+	GameObject ability;
 
 	public int GetHealth() {
 		return health;
@@ -65,15 +68,23 @@ public class PlayerHealth : MonoBehaviour {
 		health = MaxHealth;
 		hearts = new GameObject[MaxHealth];
 		for(int i = 0; i < hearts.Length; i++) {
-			float angle = i * Mathf.PI * 2 / 4;
+			float angle = i * Mathf.PI * 2 / 4 - Mathf.PI / 2;
 			hearts[i] = Instantiate(Heart, new Vector3(Mathf.Sin(angle) * 0.4f, Mathf.Cos(angle) * 0.4f, 0), Quaternion.identity);
 		}
+		ability = Instantiate(Ability, Vector3.down * 0.4f, Quaternion.identity);
 		UpdateHearts();
+		ability.GetComponent<SpriteRenderer>().sprite = sprites[96];
 	}
 
 	void Update() {
 		animIndex += Time.deltaTime * AnimSpeed;
 		animIndex %= 48;
+		if(PlayerController.isJumping) {
+			abilIndex += Time.deltaTime * AnimSpeed;
+			abilIndex %= 60;
+		} else {
+			abilIndex = 0;
+		}
 		if(health < MaxHealth) {
 			healTime -= Time.deltaTime;
 			if(healTime <= 0) {
@@ -82,5 +93,6 @@ public class PlayerHealth : MonoBehaviour {
 			}
 		}
 		UpdateHearts();
+		ability.GetComponent<SpriteRenderer>().sprite = sprites[(int) (abilIndex + 10) % 60 + 96];
 	}
 }

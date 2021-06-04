@@ -170,3 +170,4 @@ MonoBehaviour:
   HealDelay: 10
   AnimSpeed: 20
   Heart: {fileID: 1466781380268199808, guid: a0da2cb4d8ae2c141924f4e2051ff166, type: 3}
+  Ability: {fileID: 7606461441325660478, guid: bdbcef4009418f6498132a15464f5c85, type: 3}

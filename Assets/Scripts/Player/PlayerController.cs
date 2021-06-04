@@ -10,6 +10,10 @@ public class PlayerController : MonoBehaviour {
 
 	bool diagonal;
 
+	public static bool isJumping = false;
+	public static float JumpVision = 2f;
+	float jumpTimer = 0;
+
 	void Start() {
 		// Grab the mover
 		mover = gameObject.GetComponent<DirectedMovement>();
@@ -30,6 +34,31 @@ public class PlayerController : MonoBehaviour {
 		}
 		if(Input.GetKey(KeyCode.D)) {
 			movement += new Vector2(1, 0);
+		}
+		if(Input.GetKeyDown(KeyCode.Space)) {
+			isJumping = true;
+			jumpTimer = 1f;
+		}
+		if(jumpTimer <= 0 && isJumping) {
+			isJumping = false;
+			Vector2 dir = ((Vector2) Camera.main.ScreenToWorldPoint((Vector2) Input.mousePosition)
+				- (Vector2) transform.position);
+			if(Mathf.Abs(dir.x) > Mathf.Abs(dir.y)) {
+				dir.y = 0;
+			} else {
+				dir.x = 0;
+			}
+			dir = dir.normalized * 0.9f;
+			RaycastHit2D hit = Vision.MoveCast(transform.position, dir, 0.17f);
+			if(hit.distance < 1) {
+				transform.position = (Vector2) transform.position + dir * hit.distance;
+				hit = Vision.MoveCast((Vector2) transform.position + dir, -dir, 0.17f);
+				if(hit.distance > 0) {
+					transform.position = (Vector2) transform.position - dir * hit.distance + dir;
+				}
+			}
+		} else {
+			jumpTimer -= Time.deltaTime;
 		}
 		mover.Movement = movement;
 		float speed = rb.velocity.magnitude;

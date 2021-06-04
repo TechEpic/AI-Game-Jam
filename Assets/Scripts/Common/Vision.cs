@@ -68,6 +68,11 @@ public static class Vision {
 				dists[i] = hit.distance;
 			}
 		}
+		if(PlayerController.isJumping) {
+			for(int i = 0; i < dists.Length; i++) {
+				dists[i] = Mathf.Max(PlayerController.JumpVision, dists[i]);
+			}
+		}
 		return dists;
 	}
 }
