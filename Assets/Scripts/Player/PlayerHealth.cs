@@ -43,6 +43,7 @@ public class PlayerHealth : MonoBehaviour {
 			gameObject.GetComponents<AudioSource>()[4].Play();
 			gameObject.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
 			gameObject.GetComponent<CircleCollider2D>().enabled = false;
+			Camera.main.GetComponent<AudioSource>().Stop();
 			Instantiate(Poof, transform.position, Quaternion.identity);
 			HideAll();
 			return true;

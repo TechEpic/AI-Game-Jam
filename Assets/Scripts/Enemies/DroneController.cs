@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class DroneController : MonoBehaviour {
 
-	public static float Difficulty = 1;
+	public static float Difficulty = 0.6f;
 
 	public float BonkStrength = 2000;
 	public float VisionDelay = 0.5f;
@@ -25,12 +25,15 @@ public class DroneController : MonoBehaviour {
 	void Start() {
 		// Grab the mover script and the player object
 		mover = gameObject.GetComponent<DirectedMovement>();
+		mover.MaxSpeed *= Difficulty;
+		VisionDelay /= Difficulty;
 		player = GameObject.Find("Player");
 		changedPos = false;
 		isChasing = false;
 	}
 
 	void Update() {
+
 		visionDelay -= Time.deltaTime;
 		// Check if the enemy can see the player
 		if(Vision.VisionCheck(player.transform.position, transform.position, 0.17f)) {

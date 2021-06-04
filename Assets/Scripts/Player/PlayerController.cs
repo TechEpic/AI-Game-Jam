@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 // General controller for the player that handles user input
 public class PlayerController : MonoBehaviour {
@@ -27,6 +28,9 @@ public class PlayerController : MonoBehaviour {
 		// Grab the mover
 		mover = gameObject.GetComponent<DirectedMovement>();
 		rb = gameObject.GetComponent<Rigidbody2D>();
+		jumpCD = 0;
+		jumpTimer = 0;
+		isJumping = false;
 	}
 
 	void Update() {

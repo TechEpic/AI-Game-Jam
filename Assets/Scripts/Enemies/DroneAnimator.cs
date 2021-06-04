@@ -53,7 +53,7 @@ public class DroneAnimator : MonoBehaviour {
 			gameObject.GetComponent<AudioSource>().Stop();
 			direction = prevDir;
 		}
-		gameObject.GetComponent<AudioSource>().volume = 3f / ((transform.position - player.transform.position).magnitude + 3);
+		gameObject.GetComponent<AudioSource>().volume = 1.5f / ((transform.position - player.transform.position).magnitude + 3);
 		animIndex += Time.deltaTime * Speed;
 		animIndex %= stateOffsets[curState + 1] - stateOffsets[curState];
 		// maffy waffy
